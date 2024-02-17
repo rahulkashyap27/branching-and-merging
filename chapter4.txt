@@ -1,1 +1,5 @@
 and i just came back from the branching files to the main file and made a new file named it chapter4.txt 
+
+
+
+and i did merge the alien and the main file 
